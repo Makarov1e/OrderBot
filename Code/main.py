@@ -10,7 +10,7 @@ import keyboard as kb
 
 
 
-bot = Bot(token="6412544139:AAEs_OJXnWcML3gVMjlQ7wX2aIs9MvmzTZ8")
+bot = Bot(token="***")
 dp = Dispatcher()
 num_of_order = input()
 
